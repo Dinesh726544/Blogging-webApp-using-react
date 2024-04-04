@@ -1,0 +1,8 @@
+required packages:--
+
+npm install @reduxjs/toolkit
+react-redux
+react-router-dom
+appwrite@13.0.2
+@tinymce/tinymce-react
+html-react-parser
