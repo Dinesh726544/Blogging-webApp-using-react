@@ -6,3 +6,7 @@ react-router-dom
 appwrite@13.0.2
 @tinymce/tinymce-react
 html-react-parser
+
+
+1. .env
+2. conf

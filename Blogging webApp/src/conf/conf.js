@@ -1,3 +1,7 @@
+
+// take import of all environment variable within this file for good practice
+
+
 const conf = {
     appwriteUrl: String(import.meta.env.VITE_APPWRITE_URL),
     appwriteProjectId: String(import.meta.env.VITE_APPWRITE_PROJECT_ID),

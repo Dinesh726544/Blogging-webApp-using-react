@@ -7,6 +7,11 @@ export class Service {
     databases;
     bucket;
 
+    //In Appwrite, databases and buckets serve complementary roles. Databases are ideal for structured 
+    //data that requires complex querying and relational management, while buckets are optimized for 
+    //storing and managing binary files. Understanding the differences between them helps in designing
+    // applications that efficiently handle both types of data.
+
     constructor() {
         this.client
         .setEndpoint(conf.appwriteUrl) // Your API Endpoint
