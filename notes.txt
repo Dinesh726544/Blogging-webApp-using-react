@@ -10,3 +10,25 @@ html-react-parser
 
 1. .env
 2. conf
+3.appwrite
+    auth.js
+    config.js
+4.store
+    store.js
+    authSlice.js
+
+5.componentes
+    container.jsx
+    footer.jsx
+    logo.jsx
+
+    Header
+        logoutBtn.jsx
+        header.jsx
+        button.jsx
+        input.jsx
+        select.js
+        postCard.js
+        login.js(react-hook-form)
+        singup.js
+        //TODO: RTK
